@@ -1,0 +1,28 @@
+{
+  "name": "react-native-drop-down",
+  "version": "1.0.0",
+  "description": "React Native Element Dropdown is a library that provides a customizable dropdown component for React Native applications. This library simplifies the process of creating dropdown menus and provides a variety of options to customize the dropdown to match the design and functionality of your application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faheem-cmd/react-native-drop-down.git"
+  },
+  "keywords": [
+    "[dropdown",
+    "react-native",
+    "picker]"
+  ],
+  "author": "Muhammed Faheem",
+  "peerDependencies": {
+    "react-native": ">=0.35",
+    "react": "18.2.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faheem-cmd/react-native-drop-down/issues"
+  },
+  "homepage": "https://github.com/faheem-cmd/react-native-drop-down#readme"
+}
